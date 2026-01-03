@@ -18,7 +18,7 @@ Currently mastering **low-level programming** while actively exploring **cyberse
 
 ---
 
-## 💾 Project Toolkit
+## 💾 Projects Toolkit
 
 ### 🎮 [cub3D](https://github.com/VivienSoulas/cube3D)
 3D graphics renderer using ray casting and DDA.  
@@ -28,7 +28,7 @@ Translating geometric math into real-time interactive 3D rendering with minimap,
 Shell implementation with pipelines, redirections, variable expansion and heredocs.  
 Focused on memory safety and preventing cascading failures in long-running interactive sessions.
 
-### ⚡ [C++ Modules (00-06)](https://github.com/VivienSoulas/CPP)
+### ⚡ [C++ Modules](https://github.com/VivienSoulas/CPP)
 Comprehensive C++ progression: OOP fundamentals, memory management, operator overloading, inheritance, polymorphism, abstract classes, and templates.
 
 

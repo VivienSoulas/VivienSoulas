@@ -1,16 +1,16 @@
 # Hi, I'm Vivien 🌀
 
-> **Software engineering student at Ecole 42 Amsterdam (Codam)** with a track record of precision and problem-solving from previous professional experience. Now channeling that rigor into building robust systems from scratch.
+**Software engineering student at Ecole 42 Amsterdam (Codam)** with a track record of precision and problem-solving from previous professional experience. Now channeling that rigor into building robust systems from scratch.
 
 💡 I'm mastering **low-level programming** (memory management, concurrency, graphics rendering) while actively exploring **cybersecurity** (TryHackMe, HackTheBox).
 
-🎯 **What I bring:** The discipline to debug complex systems, the curiosity to understand fundamentals deeply, and the drive to build reliable software.
+> **What I bring:** The discipline to debug complex systems, the curiosity to understand fundamentals deeply, and the drive to build reliable software.
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
-**Core:** Systems Programming • Graphics • Concurrency • Algorithms  
+**Core:** Systems Programming • Memory Managment • Graphics • Concurrency • Algorithms  
 **Exploring:** 🔒 Cybersecurity (TryHackMe, HackTheBox) • 🌐 Web Technologies  
 **Interests:** Software Engineering • Full-Stack Development • Security
 

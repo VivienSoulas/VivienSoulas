@@ -10,7 +10,7 @@ Currently mastering **low-level programming** while actively exploring **cyberse
 
 ## 🛠️ Skills & Tech Stack
 
-**Core:** Systems Programming • Memory Managment • Algorithms • Concurrency • Graphics
+**Core:** C • C++
 
 **Exploring:** 🔒 Cybersecurity (TryHackMe, HackTheBox) • 🌐 Web Technologies
 
@@ -18,7 +18,7 @@ Currently mastering **low-level programming** while actively exploring **cyberse
 
 ---
 
-## 💾 Projects Toolkit
+## 💾 Projects
 
 ### 🎮 [cub3D](https://github.com/VivienSoulas/cube3D)
 3D graphics renderer using ray casting and DDA.  

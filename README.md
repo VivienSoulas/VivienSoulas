@@ -1,24 +1,24 @@
 # Hi, I'm Vivien 🌀
 
-**Software engineering student at Ecole 42 Amsterdam (Codam)** with a track record of precision and problem-solving from previous professional experience. Now channeling that rigor into building robust systems from scratch.
+> **Software engineering student at Ecole 42 Amsterdam (Codam)** with a track record of precision and problem-solving from previous professional experience. Now channeling that rigor into building robust systems from scratch.
 
-I'm mastering low-level programming—memory management, concurrency, graphics rendering—while actively exploring **cybersecurity** (TryHackMe, HackTheBox).  
-→ I don't just want code to work; I want to understand *why* it works and where it breaks.
+💡 I'm mastering **low-level programming** (memory management, concurrency, graphics rendering) while actively exploring **cybersecurity** (TryHackMe, HackTheBox).
 
-**What I bring:** The discipline to debug complex systems, the curiosity to understand fundamentals deeply, and the drive to build reliable software.
+🎯 **What I bring:** The discipline to debug complex systems, the curiosity to understand fundamentals deeply, and the drive to build reliable software.
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
+**Core:** Systems Programming • Graphics • Concurrency • Algorithms  
+**Exploring:** 🔒 Cybersecurity (TryHackMe, HackTheBox) • 🌐 Web Technologies  
+**Interests:** Software Engineering • Full-Stack Development • Security
+
+### Technologies:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Core:** Systems Programming • Graphics • Concurrency • Algorithms  
-**Exploring:** 🔒 Cybersecurity (TryHackMe, HackTheBox) • 🌐 Web Technologies  
-**Interests:** Software Engineering • Full-Stack Development • Security
 
 ## 💾 Project Toolkit
 

@@ -10,7 +10,7 @@ Currently mastering **low-level programming** while actively exploring **cyberse
 
 ## 🛠️ Skills & Tech Stack
 
-**Core:** Systems Programming • Memory Managment • Algorithms • Concurrency • Graphics	
+**Core:** Systems Programming • Memory Managment • Algorithms • Concurrency • Graphics  
 **Exploring:** 🔒 Cybersecurity (TryHackMe, HackTheBox) • 🌐 Web Technologies  
 **Interests:** Software Engineering • Full-Stack Development • Cybersecurity • Embedded Systems
 

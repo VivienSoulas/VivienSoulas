@@ -1,4 +1,4 @@
-# Hi, I'm Vivien �
+# Hi, I'm Vivien 🌀
 
 **Software engineering student at Ecole 42 Amsterdam (Codam)** with a track record of precision and problem-solving from previous professional experience. Now channeling that rigor into building robust systems from scratch.
 
@@ -20,13 +20,13 @@ I'm mastering low-level programming—memory management, concurrency, graphics r
 **Exploring:** 🔒 Cybersecurity (TryHackMe, HackTheBox) • 🌐 Web Technologies  
 **Interests:** Software Engineering • Full-Stack Development • Security
 
-## � Project Toolkit
+## 💾 Project Toolkit
 
 ### 🎮 [cub3D](https://github.com/VivienSoulas/cube3D)
 3D graphics renderer using ray casting and DDA.  
 Translating geometric math into real-time interactive 3D rendering with minimap, mouse controls, and texture mapping.
 
-### � [minishell](https://github.com/VivienSoulas/minishell)
+### 💚 [minishell](https://github.com/VivienSoulas/minishell)
 Shell implementation with pipelines, redirections, variable expansion and heredocs.  
 Focused on memory safety and preventing cascading failures in long-running interactive sessions.
 

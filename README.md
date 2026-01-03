@@ -2,7 +2,7 @@
 
 **Software engineering student at Ecole 42 Amsterdam (Codam)** with a track record of precision and problem-solving from previous professional experience. Now channeling that rigor into building robust systems from scratch.
 
-Mastering **low-level programming** while actively exploring **cybersecurity** (TryHackMe, HackTheBox).
+`... Mastering **low-level programming** while actively exploring **cybersecurity** (TryHackMe, HackTheBox).
 
 > **What I bring:**
 	The discipline to debug complex systems

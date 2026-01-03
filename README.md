@@ -10,10 +10,11 @@ Currently mastering **low-level programming** while actively exploring **cyberse
 
 ## 🛠️ Skills & Tech Stack
 
-**Core:** Systems Programming • Memory Managment • Graphics • Concurrency • Algorithms  
+**Core:** Systems Programming • Memory Managment • Algorithms • Concurrency • Graphics
 **Exploring:** 🔒 Cybersecurity (TryHackMe, HackTheBox) • 🌐 Web Technologies  
 **Interests:** Software Engineering • Full-Stack Development • Cybersecurity • Embedded Systems
 
+---
 
 ### Technologies:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

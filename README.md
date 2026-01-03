@@ -18,12 +18,6 @@ Currently mastering **low-level programming** while actively exploring **cyberse
 
 ---
 
-### Technologies:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ## 💾 Project Toolkit
 
 ### 🎮 [cub3D](https://github.com/VivienSoulas/cube3D)
@@ -36,3 +30,10 @@ Focused on memory safety and preventing cascading failures in long-running inter
 
 ### ⚡ [C++ Modules (00-06)](https://github.com/VivienSoulas/CPP)
 Comprehensive C++ progression: OOP fundamentals, memory management, operator overloading, inheritance, polymorphism, abstract classes, and templates.
+
+
+### Technologies:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

@@ -2,9 +2,12 @@
 
 **Software engineering student at Ecole 42 Amsterdam (Codam)** with a track record of precision and problem-solving from previous professional experience. Now channeling that rigor into building robust systems from scratch.
 
-💡 I'm mastering **low-level programming** (memory management, concurrency, graphics rendering) while actively exploring **cybersecurity** (TryHackMe, HackTheBox).
+Mastering **low-level programming** while actively exploring **cybersecurity** (TryHackMe, HackTheBox).
 
-> **What I bring:** The discipline to debug complex systems, the curiosity to understand fundamentals deeply, and the drive to build reliable software.
+> **What I bring:**
+	The discipline to debug complex systems
+	The curiosity to understand fundamentals deeply
+	The drive to build reliable software.
 
 ---
 
@@ -12,7 +15,7 @@
 
 **Core:** Systems Programming • Memory Managment • Graphics • Concurrency • Algorithms  
 **Exploring:** 🔒 Cybersecurity (TryHackMe, HackTheBox) • 🌐 Web Technologies  
-**Interests:** Software Engineering • Full-Stack Development • Security
+**Interests:** Software Engineering • Full-Stack Development • Cybersecurity
 
 ### Technologies:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

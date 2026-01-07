@@ -2,6 +2,7 @@
 
 **Software engineering student at Ecole 42 Amsterdam (Codam)** bringing precision and systematic problem-solving from my previous professional background. Building knowledge and software from the ground up.
 
+
 > **What I bring:** The discipline of careful problem-solving, the curiosity to understand how things work at their core, and the drive to build reliable software.
 
 ---
